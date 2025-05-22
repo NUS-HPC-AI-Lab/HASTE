@@ -8,7 +8,7 @@ Ziqiao Wang $^{1*}$, Wangbo Zhao $^{1*}$, Yuhao Zhou $^{1}$, Zekai Li $^{1}$, Zh
 
 $^{1}$ National University of Singapore, $^{2}$ Shanghai AI Laboratory, $^{3}$ University of Texas at Austin
 
-(\*) equal contribution, ($\dagger$) corresponding author.
+(\*) equal contribution, ($\dagger$) corresponding author. Ziqiao, Wangbo, Zhangyang, and Kai are core contributors.
 
 </div>
 
