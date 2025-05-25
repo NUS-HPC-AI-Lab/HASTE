@@ -3,12 +3,15 @@
 
 <div align="center">
 
+[![arXiv](https://img.shields.io/badge/arXiv%20paper-2505.16792-b31b1b.svg)](https://arxiv.org/abs/2505.16792)&nbsp;
+
 Ziqiao Wang $^{1*}$, Wangbo Zhao $^{1*}$, Yuhao Zhou $^{1}$, Zekai Li $^{1}$, Zhiyuan Liang $^{1}$, Mingjia Shi $^{1}$, Xuanlei Zhao $^{1}$,
  Pengfei Zhou $^{1}$, Kaipeng Zhang $^{2\dagger}$, Zhangyang Wang $^{3}$, Kai Wang $^{1\dagger}$, Yang You $^{1}$
 
 $^{1}$ National University of Singapore, $^{2}$ Shanghai AI Laboratory, $^{3}$ University of Texas at Austin
 
 (\*) equal contribution, ($\dagger$) corresponding author. Ziqiao, Wangbo, Zhangyang, and Kai are core contributors.
+
 
 </div>
 
@@ -151,3 +154,4 @@ torchrun --nnodes=1 --nproc_per_node=2 --master_port=29500 generate_t2i.py \
 
 The repo is built based on [REPA](https://github.com/sihyun-yu/REPA), [DiT](https://github.com/facebookresearch/DiT), [SiT](https://github.com/willisma/SiT), [edm2](https://github.com/NVlabs/edm2), [DINOv2](https://github.com/facebookresearch/dinov2), and [U-ViT](https://github.com/baofff/U-ViT) repositories.
 
+We sincerely appreciate [Liang Zheng](https://zheng-lab-anu.github.io/) and [Ziheng Qin](https://henryqin1997.github.io/ziheng_qin/) for valuable discussions and feedbacks during this work.  
