@@ -155,7 +155,7 @@ torchrun --nnodes=1 --nproc_per_node=2 --master_port=29500 generate_t2i.py \
 
 If you find our work useful, please consider citing us.
 ```
-@article{wang2025repa,
+@article{wang2025haste,
   title={REPA Works Until It Doesn't: Early-Stopped, Holistic Alignment Supercharges Diffusion Training},
   author={Wang, Ziqiao and Zhao, Wangbo and Zhou, Yuhao and Li, Zekai and Liang, Zhiyuan and Shi, Mingjia and Zhao, Xuanlei and Zhou, Pengfei and Zhang, Kaipeng and Wang, Zhangyang and others},
   journal={arXiv preprint arXiv:2505.16792},
