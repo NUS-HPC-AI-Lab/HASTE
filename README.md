@@ -153,7 +153,7 @@ torchrun --nnodes=1 --nproc_per_node=2 --master_port=29500 generate_t2i.py \
 
 ## Citation
 
-If you found our work useful, please consider citing us.
+If you find our work useful, please consider citing us.
 ```
 @article{wang2025repa,
   title={REPA Works Until It Doesn't: Early-Stopped, Holistic Alignment Supercharges Diffusion Training},
