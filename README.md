@@ -150,11 +150,6 @@ torchrun --nnodes=1 --nproc_per_node=2 --master_port=29500 generate_t2i.py \
   --cfg-scale=2.25 \
   --guidance-high=1.0 
 ```
-## Acknowledgement
-
-The repo is built based on [REPA](https://github.com/sihyun-yu/REPA), [DiT](https://github.com/facebookresearch/DiT), [SiT](https://github.com/willisma/SiT), [edm2](https://github.com/NVlabs/edm2), [DINOv2](https://github.com/facebookresearch/dinov2), and [U-ViT](https://github.com/baofff/U-ViT) repositories.
-
-We sincerely appreciate [Liang Zheng](https://zheng-lab-anu.github.io/) and [Ziheng Qin](https://henryqin1997.github.io/ziheng_qin/) for valuable discussions and feedbacks during this work.  
 
 ## Citation
 
@@ -167,3 +162,10 @@ If you found our work useful, please consider citing us.
   year={2025}
 }
 ```
+
+## Acknowledgement
+
+The repo is built based on [REPA](https://github.com/sihyun-yu/REPA), [DiT](https://github.com/facebookresearch/DiT), [SiT](https://github.com/willisma/SiT), [edm2](https://github.com/NVlabs/edm2), [DINOv2](https://github.com/facebookresearch/dinov2), and [U-ViT](https://github.com/baofff/U-ViT) repositories.
+
+We sincerely appreciate [Liang Zheng](https://zheng-lab-anu.github.io/) and [Ziheng Qin](https://henryqin1997.github.io/ziheng_qin/) for valuable discussions and feedbacks during this work.  
+
